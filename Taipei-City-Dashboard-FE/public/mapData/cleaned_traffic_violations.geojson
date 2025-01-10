@@ -1,0 +1,405 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5341958085653, 25.023828501371007]
+			},
+			"properties": {
+				"ViolationID": 1,
+				"DeviceID": 27,
+				"CaptureTime": "2025-01-09 17:03:35",
+				"CaptureLocation": "台北市北投區中央南路三段30號",
+				"district": "北投區",
+				"speed_limit": 50,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53138430367552, 25.11842894084075]
+			},
+			"properties": {
+				"ViolationID": 2,
+				"DeviceID": 295,
+				"CaptureTime": "2025-01-09 17:03:52",
+				"CaptureLocation": "台北市士林區天母東路5號",
+				"district": "士林區",
+				"speed_limit": 50,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54295860260545, 25.021183285315846]
+			},
+			"properties": {
+				"ViolationID": 3,
+				"DeviceID": 53,
+				"CaptureTime": "2025-01-09 17:04:06",
+				"CaptureLocation": "台北市大安區辛亥路二段270號",
+				"district": "大安區",
+				"speed_limit": 50,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53279567577175, 25.017086213588293]
+			},
+			"properties": {
+				"ViolationID": 4,
+				"DeviceID": 99,
+				"CaptureTime": "2025-01-09 17:04:15",
+				"CaptureLocation": "台北市大安區新生南路三段105號",
+				"district": "大安區",
+				"speed_limit": 50,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58326781613479, 25.06953534645716]
+			},
+			"properties": {
+				"ViolationID": 5,
+				"DeviceID": 129,
+				"CaptureTime": "2025-01-09 17:04:34",
+				"CaptureLocation": "台北市內湖區湖光路8號",
+				"district": "內湖區",
+				"speed_limit": 50,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53135211633861, 25.11839979858663]
+			},
+			"properties": {
+				"ViolationID": 6,
+				"DeviceID": 3,
+				"CaptureTime": "2025-01-09 17:04:49",
+				"CaptureLocation": "台北市士林區天母東路5號",
+				"district": "士林區",
+				"speed_limit": 50,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5396211300381, 25.02531801209328]
+			},
+			"properties": {
+				"ViolationID": 7,
+				"DeviceID": 152,
+				"CaptureTime": "2025-01-09 17:07:32",
+				"CaptureLocation": "台北市信義區和平東路二段90號",
+				"district": "信義區",
+				"speed_limit": 50,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54295860056507, 25.021086065541777]
+			},
+			"properties": {
+				"ViolationID": 8,
+				"DeviceID": 58,
+				"CaptureTime": "2025-01-09 17:07:45",
+				"CaptureLocation": "台北市大安區辛亥路二段270號",
+				"district": "大安區",
+				"speed_limit": 50,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58608661552138, 25.076065885252746]
+			},
+			"properties": {
+				"ViolationID": 9,
+				"DeviceID": 74,
+				"CaptureTime": "2025-01-09 17:12:36",
+				"CaptureLocation": "台北市內湖區陽光街78號",
+				"district": "內湖區",
+				"speed_limit": 50,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55253337412756, 25.052751986903782]
+			},
+			"properties": {
+				"ViolationID": 10,
+				"DeviceID": 219,
+				"CaptureTime": "2025-01-09 17:35:48",
+				"CaptureLocation": "台北市松山區健康路5號",
+				"district": "松山區",
+				"speed_limit": 50,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49517227310433, 25.137253508834107]
+			},
+			"properties": {
+				"ViolationID": 11,
+				"DeviceID": 60,
+				"CaptureTime": "2025-01-09 17:51:05",
+				"CaptureLocation": "台北市北投區中央北路二段50號",
+				"district": "北投區",
+				"speed_limit": 50,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53190054299068, 25.06242406818143]
+			},
+			"properties": {
+				"ViolationID": 12,
+				"DeviceID": 242,
+				"CaptureTime": "2025-01-09 18:06:01",
+				"CaptureLocation": "台北市中山區民權東路二段100號",
+				"district": "中山區",
+				"speed_limit": 50,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55138737146453, 25.002802949554788]
+			},
+			"properties": {
+				"ViolationID": 13,
+				"DeviceID": 4,
+				"CaptureTime": "2025-01-09 18:17:49",
+				"CaptureLocation": "台北市文山區福興路18號",
+				"district": "文山區",
+				"speed_limit": 50,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57911494360114, 25.0411708395002]
+			},
+			"properties": {
+				"ViolationID": 14,
+				"DeviceID": 188,
+				"CaptureTime": "2025-01-09 21:11:23",
+				"CaptureLocation": "台北市信義區忠孝東路五段510號",
+				"district": "信義區",
+				"speed_limit": 50,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54812087186272, 25.02447638608627]
+			},
+			"properties": {
+				"ViolationID": 15,
+				"DeviceID": 233,
+				"CaptureTime": "2025-01-09 21:33:28",
+				"CaptureLocation": "台北市大安區和平東路三段56號",
+				"district": "大安區",
+				"speed_limit": 50,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57450633275872, 24.99885935422786]
+			},
+			"properties": {
+				"ViolationID": 16,
+				"DeviceID": 57,
+				"CaptureTime": "2025-01-09 21:59:20",
+				"CaptureLocation": "台北市文山區和平東路四段15號",
+				"district": "文山區",
+				"speed_limit": 50,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52720327269243, 25.021271175500495]
+			},
+			"properties": {
+				"ViolationID": 17,
+				"DeviceID": 288,
+				"CaptureTime": "2025-01-09 22:37:42",
+				"CaptureLocation": "台北市中正區羅斯福路三段100號",
+				"district": "中正區",
+				"speed_limit": 50,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49329974522567, 25.026445422563306]
+			},
+			"properties": {
+				"ViolationID": 18,
+				"DeviceID": 109,
+				"CaptureTime": "2025-01-09 22:43:59",
+				"CaptureLocation": "台北市萬華區西園路二段10號",
+				"district": "萬華區",
+				"speed_limit": 40,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50554690097087, 25.042846697401206]
+			},
+			"properties": {
+				"ViolationID": 19,
+				"DeviceID": 88,
+				"CaptureTime": "2025-01-10 09:27:32",
+				"CaptureLocation": "台北市萬華區成都路60號",
+				"district": "萬華區",
+				"speed_limit": 50,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49940700056344, 25.12424132447511]
+			},
+			"properties": {
+				"ViolationID": 20,
+				"DeviceID": 130,
+				"CaptureTime": "2025-01-10 09:39:54",
+				"CaptureLocation": "台北市北投區大業路60號",
+				"district": "北投區",
+				"speed_limit": 50,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5212044427875, 25.092471837509834]
+			},
+			"properties": {
+				"ViolationID": 21,
+				"DeviceID": 17,
+				"CaptureTime": "2025-01-10 09:53:25",
+				"CaptureLocation": "台北市士林區福德路100號",
+				"district": "士林區",
+				"speed_limit": 30,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54294787207995, 25.021105509684762]
+			},
+			"properties": {
+				"ViolationID": 22,
+				"DeviceID": 101,
+				"CaptureTime": "2025-01-10 10:18:25",
+				"CaptureLocation": "台北市大安區辛亥路二段270號",
+				"district": "大安區",
+				"speed_limit": 50,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5683017716791, 24.987084479219526]
+			},
+			"properties": {
+				"ViolationID": 23,
+				"DeviceID": 24,
+				"CaptureTime": "2025-01-10 10:27:25",
+				"CaptureLocation": "台北市文山區保儀路90號",
+				"district": "文山區",
+				"speed_limit": 30,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52514720137553, 25.038517541025822]
+			},
+			"properties": {
+				"ViolationID": 24,
+				"DeviceID": 286,
+				"CaptureTime": "2025-01-10 10:44:27",
+				"CaptureLocation": "台北市中正區仁愛路一段89號",
+				"district": "中正區",
+				"speed_limit": 50,
+				"car_speed": 65
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53637817249098, 25.05296903087296]
+			},
+			"properties": {
+				"ViolationID": 25,
+				"DeviceID": 281,
+				"CaptureTime": "2025-01-10 11:18:33",
+				"CaptureLocation": "台北市中山區建國北路18號",
+				"district": "中山區",
+				"speed_limit": 50,
+				"car_speed": 65
+			}
+		}
+	]
+}
