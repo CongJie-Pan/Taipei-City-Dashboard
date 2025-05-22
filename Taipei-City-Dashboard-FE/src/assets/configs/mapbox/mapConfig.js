@@ -2,13 +2,13 @@
 export const MapObjectConfig = {
 	antialias: true,
 	container: "mapboxBox",
-	center: [121.536609, 25.044808],
+	center: [121.24, 24.9575], // 中原大學的經緯度
 	maxBounds: [
-		[121.3870596781498, 24.95733863075891], // Southwest coordinates
-		[121.6998231749096, 25.21179993640203], // Northeast coordinates
+		[120.95, 24.65], // 桃園市西南角座標 (約略值)
+		[121.5, 25.15], // 桃園市東北角座標 (約略值)
 	],
-	zoom: 12.5,
-	minZoom: 11,
+	zoom: 10.5, // 調整初始縮放級別以顯示較大範圍的桃園市
+	minZoom: 9, // 調整最小縮放級別以允許縮小檢視整個桃園市
 	maxZoom: 22,
 	projection: "globe", // display the map as a 3D globe
 };
